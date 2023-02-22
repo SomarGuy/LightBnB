@@ -53,7 +53,6 @@ const getUserWithId = function(id) {
 
 exports.getUserWithId = getUserWithId;
 
-
 /**
  * Add a new user to the database.
  * @param {{name: string, password: string, email: string}} user
